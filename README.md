@@ -3,7 +3,7 @@ This is a case study project where I build Product dissection, defined revenue g
 
 ![Thumbnail](https://github.com/Saurabh-Ratnaparkhi/Case-Study-Schema-design-for-E-Commerce-Platform/blob/main/CS%20D2.png)
 
-The case study presentation on eBay provides a comprehensive analysis of the company's business model, challenges, solutions, growth strategies, and financials. Here's a brief summary of the key points:
+The case study on eBay provides a comprehensive analysis of the company's business model, challenges, solutions, growth strategies, and financials. Here's a brief summary of the key points:
 
 **Overview:** eBay revolutionized online shopping by offering a platform for buying and selling a wide range of products. It focused on small businesses and prioritized trust, safety, and community support.
 
