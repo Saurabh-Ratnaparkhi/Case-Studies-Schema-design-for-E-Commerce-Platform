@@ -1,1 +1,1 @@
-# Case-Studies-Schema-design-for-E-Commerce-Platform
+# Case-Study-Guesstimates-for-E-Commerce-Platform
